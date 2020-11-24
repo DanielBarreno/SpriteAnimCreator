@@ -26,13 +26,11 @@ public class SpriteAnimCreator : Editor
         if(selectedSprites.Count != 0)
         {
             AnimationClip animClip = new AnimationClip();
-
             animClip.wrapMode = WrapMode.Loop;
             animClip.frameRate = REFERENCE_FPS;
 
             AnimationClipSettings tSettings = AnimationUtility.GetAnimationClipSettings(animClip);
             tSettings.loopTime = true;
-
             AnimationUtility.SetAnimationClipSettings(animClip, tSettings);
 
             EditorCurveBinding spriteBinding = new EditorCurveBinding();
@@ -41,7 +39,6 @@ public class SpriteAnimCreator : Editor
             spriteBinding.propertyName = ANIMATOR_PROPERTY_NAME;
 
             ObjectReferenceKeyframe[] spriteKeyFrames = new ObjectReferenceKeyframe[selectedSprites.Count + 1];
-
             float animDuration = spriteKeyFrames.Length / REFERENCE_FPS;
 
             for (int i = 0; i < spriteKeyFrames.Length; i++)
