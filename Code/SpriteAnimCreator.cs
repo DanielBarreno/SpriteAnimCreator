@@ -1,4 +1,7 @@
-﻿using System.Collections.Generic;
+﻿//Autor: Daniel Barreno.
+//Date: 24/11/2020.
+
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
