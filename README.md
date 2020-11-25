@@ -3,7 +3,7 @@ Create animation from sprites with a simple shortcut.
 ![](https://i.imgur.com/GNJqUE2.gif)
 
 # Instalation
-* Copy **"SpriteAnimCreator.cs"** script under a **"Editor"** folder in your Unity project.
+* Copy **"SpriteAnimCreator.cs"** script under an **"Editor"** folder in your Unity project.
 
 ![](https://i.imgur.com/FqpYg0A.png)
 * Edit > Shortcuts...
