@@ -9,7 +9,7 @@ Create animation from sprites with a simple shortcut.
 * Edit > Shortcuts...
 
 ![](https://i.imgur.com/HT1Sk01.png)
-* Select a shortcut for **"Main Menu/Tools/Create animation from sprites"**, for example **"Cntrl + M"**
+* Select a shortcut for **"Main Menu/Tools/Create animation from sprites"**, for example **"Ctrl + M"**
 
 ![](https://i.imgur.com/s6mR3QO.png)
 
