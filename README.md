@@ -1,5 +1,5 @@
 # SpriteAnimCreator
-Create animation from sprites with a simple shortcut.
+While developing [NetherWorld](https://www.netherworldgame.com) I made this shortcut to create animation from sprites. Hope it’s useful for your project!
 ![](https://i.imgur.com/GNJqUE2.gif)
 
 # Instalation
